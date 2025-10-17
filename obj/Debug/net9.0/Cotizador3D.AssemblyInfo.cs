@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cotizador3D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19eb0f1dc721ea221034a57ed257cf372a17f0ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+434fce04734a397ca4f1c7b4ead9366450b72ac2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cotizador3D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cotizador3D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
